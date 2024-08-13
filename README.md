@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MAHIR</h1>
+<h1 align="center">HI 👋, I'M MAHIR</h1>
 <h3 align="center">A CYBER WARRIOR FROM BANGLADESH</h3>
 
 - 🔭 I’m currently working on **Cyber war**
